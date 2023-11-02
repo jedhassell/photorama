@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Jed Hassell
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -34,8 +34,8 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://jedhassell.github.io/photorama/gallery/"  
-  - JOURNAL: "https://jedhassell.github.io/photorama/journal/"
-  - ABOUT: "https://jedhassell.github.io/photorama/about/"
+  # - JOURNAL: "https://jedhassell.github.io/photorama/journal/"
+  # - ABOUT: "https://jedhassell.github.io/photorama/about/"
 
 # All translation keys
 translations:
