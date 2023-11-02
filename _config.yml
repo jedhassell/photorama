@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://jedhassell.github.io"
+url: "http://localhost:4000"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://jedhassell.github.io/photorama/gallery/"  
-  - JOURNAL: "https://jedhassell.github.io/photorama/journal/"
-  - ABOUT: "https://jedhassell.github.io/photorama/about/"
+  - GALLERY: "http://localhost:4000/photorama/gallery/"  
+  - JOURNAL: "http://localhost:4000/photorama/journal/"
+  - ABOUT: "http://localhost:4000/photorama/about/"
 
 # All translation keys
 translations:
