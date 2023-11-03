@@ -1,16 +1,16 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: Photos
+email: "jedhassell@gmail.com"
 description: "Photo Journal"
 url: "https://jedhassell.github.io"
 baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+# facebook_username: "jedhassell"
+# twitter_username: "jedhassell"
+# instagram_username: ""
+# github_username:  "jedhassell"
+# deviantart_username: ""
+# flickr_username: ""
+# discus_shortname: ""
 share: true
 
 # Owner/author information
@@ -26,10 +26,10 @@ owner:
 #Set 'provider: false' to disable comments globally.
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
-comments :
-  provider : disqus
-  disqus :
-    short_name : ""
+# comments :
+#   provider : disqus
+#   disqus :
+#     short_name : ""
 
 # Internal nav
 nav:
